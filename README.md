@@ -83,9 +83,11 @@ Official Addons Using GlitchCore
 Contributing
 
 Contributions are welcome. Please open an issue first to discuss proposed changes.
+
 License
 
 MIT License
+
 Contact
 
 Discord: v0idkr31
